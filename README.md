@@ -2,7 +2,7 @@
 
 Input data: https://bit.ly/2YfxTAi
 
-Claat: https://docs.google.com/document/d/17iO3pKXC5vyRMQFh5PLCRtJOvvmEDHGLeW02zzXlzBw/edit?ts=5c959d18
+Claat: https://codelabs-preview.appspot.com/?file_id=17iO3pKXC5vyRMQFh5PLCRtJOvvmEDHGLeW02zzXlzBw#0
 
 Task 1:
 
