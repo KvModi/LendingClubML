@@ -1,7 +1,9 @@
 # LendingClubML
 
 Input data: https://bit.ly/2YfxTAi
+
 Claat: https://docs.google.com/document/d/17iO3pKXC5vyRMQFh5PLCRtJOvvmEDHGLeW02zzXlzBw/edit?ts=5c959d18
+
 Task 1:
 
 -Irs the professor is going to need the whole data set for the study. The professor would like to know the trend and the factors affecting the interest rate of the loan as the students have more data(features) to explore. This strengthens the point that in the industry most of the efforts goes in improving and understanding data. It is more important to have more data when compared to complex algorithms.
